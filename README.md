@@ -359,3 +359,5 @@ Run:
 python run_all.py
 
 The scripts will recreate the final experiment results, statistical analysis, processed results file, and visualization.
+
+This project is designed to be fully reproducible using the provided scripts and the publicly available CIFAR 10 dataset.
