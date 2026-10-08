@@ -1,0 +1,6 @@
+data/raw/
+__pycache__/
+.DS_Store
+color_scores.npy
+gray_scores.npy
+.vscode/
